@@ -1,36 +1,16 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# CREATIVE A/B TESTING WITH YOUR COMMUNITY :bar_chart:
 
-## Getting Started
+## About The Project :bulb:
+This application empowers you to engage with your community for quick A/B testing of your creative. Wondering what people think about your Ads? Simply share a link to your testing page!
 
-First, run the development server:
+## Features :sparkles:
+- **Community Engagement**: Leverage the power of your community to gather feedback on various creatives.
+- **Simple Survey Interface**: Users can quickly choose their preferred creative in a fun, game-like survey format.
+- **Multiple Choices**: Offer multiple creative choices to ensure a comprehensive test of preferences.
+- **Quick Setup**: Get your test up and running in no time with our user-friendly interface.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## How It Works :gear:
+1. **Upload Your Creatives**: Simply upload the creative options you want to test.
+2. **Share Your Link**: Distribute your unique survey link across your community or social networks.
+3. **Collect Feedback**: Watch as your community votes on their preferred designs.
+4. **Analyze Results**: Determine which creative resonates the most and make informed decisions based on real user feedback.
